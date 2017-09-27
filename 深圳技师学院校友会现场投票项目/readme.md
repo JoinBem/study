@@ -1,6 +1,8 @@
 # 校友会投票程序 
 
-校友会投票程序
+
+[校友会投票程序](https://git.iksns.net/laiyuwei/vote)
+
 
 ## 总结
 
@@ -28,7 +30,7 @@
 轻量前端框架 Spectre.css
 渐进式JavaScript框架 Vue.js
 Http库 Axios
-简介优雅php框架 Laravel
+简洁优雅的php框架 Laravel
 
 ```
 #### 数据库设计
