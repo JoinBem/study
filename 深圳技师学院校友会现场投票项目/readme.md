@@ -62,7 +62,7 @@ php 压力测试 ->
 
 校友会圆满结束，程序在现场投票中顺利运行。
 
-![avatar](/public/avatar/worksite1.jpg)
-![avatar](/public/avatar/worksite2.jpg)
-![avatar](/public/avatar/worksite3.jpg)
-![avatar](/public/avatar/worksite4.jpg)
+![avatar](./public/avatar/worksite1.jpg)
+![avatar](./public/avatar/worksite2.jpg)
+![avatar](./public/avatar/worksite3.jpg)
+![avatar](./public/avatar/worksite4.jpg)
